@@ -1,0 +1,37 @@
+Session Duration(in mins),Average Session Rating,,Meal Type,Sum of Amount (USD),,,,Dish,Average Experience Rating,,,,Time of Day,Amount paid ( USD),,,,Age,Amount spent (USD),,,,Location,Amount paid(USD)
+above 30,4.79,,Breakfast,98,,,,Grilled Chicken,9.21,,,,Night,239.5,,,,above 30,214,,,,New York,105
+exact 30,4.40,,Dinner,204,,,,Spaghetti,8.87,,,,Day,110,,,,below 30,161,,,,Chicago,96
+below 30,4.27,,Lunch,118,,,,Pancakes,8.80,,,,Morning,70.5,,,,exact 30,45,,,,Los Angeles,93
+,,,,,,,,Veggie Burger,8.35,,,,,,,,,,,,,,Seattle,45
+,,,,,,,,Caesar Salad,8.31,,,,,,,,,,,,,,San Francisco,43
+,,,,,,,,Oatmeal,8.10,,,,,,,,,,,,,,Boston,14
+Row Labels,Sum of Orders Completed,,,,,,,,,,,,,,,,,,,,,,Austin,13
+above 30,10,,,,,,,,,,,,,,,,,,,,,,Miami,11
+below 30,10,,,,,,,,,,,,,,,,,,,,,,Dallas,0
+exact 30,12,,,,,,,,,,,,,,,,,,,,,,Phoenix,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Meal Type, Orders,,,,,,,,,,,,,,,,,,,,
+,,,Dinner,18,,,,,,,,,,,,,,,,,,,,
+,,,Lunch,11,,,,,,,,,,,,,,,,,,,,
+,,,Breakfast,9,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Dish, Amount Spent (USD),,,,,,,,,,,,,,,
+,,,,,,,,Grilled Chicken,102.5,,,,,,,,,,,,,,,
+,,,,,,,,Spaghetti,101.5,,,,,,,,,,,,,,,
+,,,,,,,,Caesar Salad,75,,,,,,,,,,,,,,,
+,,,,,,,,Pancakes,67,,,,,,,,,,,,,,,
+,,,,,,,,Veggie Burger,43,,,,,,,,,,,,,,,
+,,,,,,,,Oatmeal,31,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,UPLIANCE AI ASSIGNMENT,,,,,,,,,,
