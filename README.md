@@ -22,3 +22,13 @@ To visualize the findings, I used pivot tables and created the following charts:
 4. **Revenue Spread Analysis**: Attempted to explain the spread of revenue throughout a day, across the specified age groups.
 
 By cleaning and preparing the data, and performing in-depth analysis and visualization, this project provides valuable insights into customer behaviors and preferences, enabling data-driven decision-making.
+
+### Business Recommendations
+
+1.The people of the age : ‘30 and above’ are the major consumers of your product who have spent a total of 259$ as compared to 161$, spent by people below 30.
+
+2.The above mentioned demographic like to prepare meals with longer cooking session times and i.e during the night .
+
+3.Upliance AI should explore and include more varieties of Grilled Chicken and Spaghetti since these 2 dish’s alone are responsible for almost 50% of the sales.
+
+4.To boost sales in majority of the cities mentioned Dinner and Lunch should be the 2 meal types that need to be focused upon with the city of New York being an exception, where Upliance AI should include Dinner options for the younger demographic as New York accounts for 65% of the sales for the people below the age of 30.
